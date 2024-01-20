@@ -1,0 +1,14 @@
+{
+  "name": "f0cc2701900264da",
+  "main": "f0cc2701900264da@153.js",
+  "version": "153.0.0",
+  "homepage": "https://observablehq.com/d/f0cc2701900264da",
+  "author": {
+    "name": "Karim Kanji",
+    "url": "https://observablehq.com/@karim-lucas"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
